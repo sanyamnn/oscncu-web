@@ -5,3 +5,8 @@ There are 2 seperate repositories for android and iOS applications .
 The tested product launch with all 3 components is estimated to be 15 August 2018 .
 All web commits will be open source on this repo only .
 Anyone with web-components knowledge and contribute for betterment of final product on this repo only .
+
+
+
+
+HI EVERYBODY , WE ARE LOOKING FOR A FREELANCER FRAPHIC DESIGNER WITH A GOOD KNOWLEDGE OF PHOTOSHOP TO DESIGN IMPRINTS OF THIS PROJECTS . OUR WEB DEVELOPMENT TEAM IS READY TO TAKE ON THIS WEBSITE
